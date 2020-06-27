@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0529ce74-f745-4bda-86ac-14a447c0dec8" name="Default Changelist" comment="" />
+    <list default="true" id="0529ce74-f745-4bda-86ac-14a447c0dec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper_client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper_client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper_client/src/main/java/com/ll/zookeeper/ZkClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper_client/src/main/java/com/ll/zookeeper/ZkClient.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -39,16 +46,18 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1dssap6fGNf7Ow4yiMxUBvqUiSa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33333334" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,6 +71,97 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.ZkClient.createNode">
+    <configuration name="ZkClient.createNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.zookeeper.ZkClient" />
+      <option name="METHOD_NAME" value="createNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZkClient.getChild" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.zookeeper.ZkClient" />
+      <option name="METHOD_NAME" value="getChild" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZkClient.getChild2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.zookeeper.ZkClient" />
+      <option name="METHOD_NAME" value="getChild2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZkClient.getChild3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.zookeeper.ZkClient" />
+      <option name="METHOD_NAME" value="getChild3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZkClient.getData4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ll.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ll.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.ll.zookeeper.ZkClient" />
+      <option name="METHOD_NAME" value="getData4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZkClient.createNode" />
+        <item itemvalue="JUnit.ZkClient.getData4" />
+        <item itemvalue="JUnit.ZkClient.getChild3" />
+        <item itemvalue="JUnit.ZkClient.getChild2" />
+        <item itemvalue="JUnit.ZkClient.getChild" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,11 +172,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593225200645</updated>
-      <workItem from="1593225204684" duration="983000" />
+      <workItem from="1593225204684" duration="6007000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
